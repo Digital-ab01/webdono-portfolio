@@ -1,0 +1,605 @@
+[
+  {
+    "slug": "moroccan-adviser",
+    "name": "Moroccan Adviser",
+    "url": "https://moroccanadviser.com/",
+    "category": "Tourism",
+    "tagline": "A trusted guide to bespoke Moroccan journeys",
+    "description": "A destination-marketing platform built to position Moroccan Adviser as a premium travel authority, blending rich editorial storytelling with a seamless tour-booking funnel.",
+    "industry": "Travel & Tour Operations",
+    "objectives": [
+      "Establish authority as a premium Morocco travel resource",
+      "Convert editorial readers into qualified tour inquiries",
+      "Showcase curated itineraries with strong visual storytelling"
+    ],
+    "approach": "We led with immersive photography and a magazine-style content structure, layering a frictionless multi-step inquiry form on top to move visitors from inspiration to booking without breaking the narrative flow.",
+    "technologies": [
+      "WordPress",
+      "Elementor Pro",
+      "Custom PHP",
+      "Cloudflare"
+    ],
+    "services": [
+      "UX Strategy",
+      "Web Design",
+      "CMS Development",
+      "SEO Foundations"
+    ],
+    "year": "2023"
+  },
+  {
+    "slug": "in-morocco-trips",
+    "name": "In Morocco Trips",
+    "url": "https://inmoroccotrips.com/",
+    "category": "Tourism",
+    "tagline": "Tailor-made desert & imperial city adventures",
+    "description": "A vibrant, conversion-focused tour operator site designed to make complex multi-day itineraries easy to browse, compare, and book directly online.",
+    "industry": "Tour Operator",
+    "objectives": [
+      "Simplify itinerary comparison across dozens of tour packages",
+      "Increase direct bookings vs. third-party OTA reliance",
+      "Build credibility through reviews and real trip imagery"
+    ],
+    "approach": "We architected a filterable itinerary catalogue with day-by-day breakdowns, paired with a sticky booking widget and trust signals placed at every scroll depth.",
+    "technologies": [
+      "WordPress",
+      "WooCommerce",
+      "Custom Theme",
+      "Cloudflare"
+    ],
+    "services": [
+      "Web Design",
+      "Booking Flow UX",
+      "Development",
+      "On-page SEO"
+    ],
+    "year": "2023"
+  },
+  {
+    "slug": "circuitos-exclusivos",
+    "name": "Circuitos Exclusivos",
+    "url": "https://circuitosexclusivos.com/",
+    "category": "Tourism",
+    "tagline": "Exclusive circuits for the Spanish-speaking traveler",
+    "description": "A Spanish-language tour brand rebuilt with a warm, editorial aesthetic to resonate with a Latin American and Spanish audience exploring Morocco.",
+    "industry": "Tour Operator",
+    "objectives": [
+      "Localize the booking experience for a Spanish-speaking market",
+      "Differentiate premium circuits from mass-market competitors",
+      "Streamline inquiry-to-quote turnaround time"
+    ],
+    "approach": "We designed a warm, tactile visual language rooted in Moroccan textures and color, with clear circuit tiers and a quote request flow tuned for the LATAM travel-planning mindset.",
+    "technologies": [
+      "WordPress",
+      "Elementor",
+      "WPML",
+      "Cloudflare"
+    ],
+    "services": [
+      "Localization Strategy",
+      "Web Design",
+      "Development"
+    ],
+    "year": "2022"
+  },
+  {
+    "slug": "mt-morocco-travel",
+    "name": "MT Morocco Travel",
+    "url": "https://mtmoroccotravel.com/",
+    "category": "Tourism",
+    "tagline": "Structured travel planning for modern explorers",
+    "description": "A clean, structured travel-planning platform emphasizing clarity and trust for travelers researching Morocco for the first time.",
+    "industry": "Travel Agency",
+    "objectives": [
+      "Reduce bounce rate for first-time Morocco researchers",
+      "Present pricing and inclusions with full transparency",
+      "Support mobile-first discovery and inquiry"
+    ],
+    "approach": "We prioritized information hierarchy and mobile performance, with progressive disclosure of itinerary detail so visitors are never overwhelmed on first contact.",
+    "technologies": [
+      "WordPress",
+      "Elementor",
+      "Custom PHP"
+    ],
+    "services": [
+      "UX Audit",
+      "Web Design",
+      "Development"
+    ],
+    "year": "2022"
+  },
+  {
+    "slug": "holiday-morocco-tours",
+    "name": "Holiday Morocco Tours",
+    "url": "https://holiday-morocco-tours.com/",
+    "category": "Tourism",
+    "tagline": "Holiday-ready escapes across the Kingdom",
+    "description": "A cheerful, conversion-first tour site tuned for seasonal holiday traffic spikes and fast decision-making travelers.",
+    "industry": "Tour Operator",
+    "objectives": [
+      "Capture high-intent seasonal search traffic",
+      "Shorten the path from landing to inquiry",
+      "Highlight best-seller tours prominently"
+    ],
+    "approach": "We built a best-sellers-first layout with urgency-driven micro-copy and a lightweight inquiry form surfaced within one scroll on every device.",
+    "technologies": [
+      "WordPress",
+      "Elementor",
+      "Cloudflare"
+    ],
+    "services": [
+      "Web Design",
+      "CRO",
+      "Development"
+    ],
+    "year": "2021"
+  },
+  {
+    "slug": "fatima-atv-quad-experience",
+    "name": "Fatima ATV Quad Experience",
+    "url": "https://www.fatimaatvquadaexperience.com/",
+    "category": "Experiences",
+    "tagline": "Adrenaline across the Agafay dunes",
+    "description": "A punchy, high-energy landing experience built to sell adventure activities to travelers browsing on their phones minutes before booking.",
+    "industry": "Adventure & Outdoor Activities",
+    "objectives": [
+      "Sell same-day and next-day activity slots",
+      "Convey safety and professionalism for an adrenaline product",
+      "Make booking possible in under 60 seconds on mobile"
+    ],
+    "approach": "We used bold action photography, video-first storytelling, and a single-screen mobile booking widget to match the impulsive, in-the-moment booking behavior of this audience.",
+    "technologies": [
+      "WordPress",
+      "Elementor",
+      "WhatsApp Booking Integration"
+    ],
+    "services": [
+      "Web Design",
+      "Mobile UX",
+      "Development"
+    ],
+    "year": "2023"
+  },
+  {
+    "slug": "fes-leather-workshop",
+    "name": "Fes Leather Workshop",
+    "url": "https://fesleatherworkshop.com/",
+    "category": "Experiences",
+    "tagline": "Hands-on craft inside the Fes tanneries",
+    "description": "A cultural-experience microsite that turns a traditional leather-making workshop into a bookable, story-driven cultural activity.",
+    "industry": "Cultural & Artisan Experiences",
+    "objectives": [
+      "Translate an intangible craft experience into a compelling offer",
+      "Build trust with international visitors booking in advance",
+      "Present the artisan story authentically"
+    ],
+    "approach": "We centered the narrative on the artisans themselves, using process photography and a simple, reassuring booking flow to convert culturally curious travelers.",
+    "technologies": [
+      "WordPress",
+      "Elementor",
+      "Custom PHP"
+    ],
+    "services": [
+      "Brand Storytelling",
+      "Web Design",
+      "Development"
+    ],
+    "year": "2023"
+  },
+  {
+    "slug": "relaxing-desert-camp",
+    "name": "Relaxing Desert Camp",
+    "url": "https://relaxingdesertcamp.com/",
+    "category": "Hotels & Riads",
+    "tagline": "Luxury nights beneath the Saharan sky",
+    "description": "An atmospheric hospitality site designed to sell the emotion of a desert stay before selling the room itself, with a direct-booking engine to reduce OTA commission dependence.",
+    "industry": "Boutique Hospitality",
+    "objectives": [
+      "Increase direct bookings and reduce OTA commission spend",
+      "Convey a luxury desert experience through visual pacing",
+      "Simplify multi-night, multi-room reservation logic"
+    ],
+    "approach": "We paced the homepage like a short film — ambience, then amenities, then availability — with an integrated booking engine surfaced at the emotional peak of the scroll.",
+    "technologies": [
+      "WordPress",
+      "Elementor",
+      "Booking Engine Integration"
+    ],
+    "services": [
+      "Web Design",
+      "Direct Booking Strategy",
+      "Development"
+    ],
+    "year": "2022"
+  },
+  {
+    "slug": "auberge-tagoudit",
+    "name": "Auberge Tagoudit",
+    "url": "https://aubergetagoudit.com/",
+    "category": "Hotels & Riads",
+    "tagline": "Mountain hospitality in the Atlas",
+    "description": "A rustic-luxury auberge site built around warm, tactile imagery of the Atlas Mountains and a straightforward reservation experience.",
+    "industry": "Mountain Lodging",
+    "objectives": [
+      "Attract hikers and nature travelers planning multi-day treks",
+      "Present room and half-board packages clearly",
+      "Build confidence for travelers booking a remote property"
+    ],
+    "approach": "We combined a clean room-and-rate structure with landscape-led photography, reassuring remote travelers with clear logistics information up front.",
+    "technologies": [
+      "WordPress",
+      "Elementor",
+      "Custom PHP"
+    ],
+    "services": [
+      "Web Design",
+      "Development",
+      "Content Strategy"
+    ],
+    "year": "2022"
+  },
+  {
+    "slug": "riad-dar-fatima",
+    "name": "Riad Dar Fatima",
+    "url": "https://riaddarfatima.com/",
+    "category": "Hotels & Riads",
+    "tagline": "A quiet courtyard escape in the medina",
+    "description": "An intimate riad website that leans into stillness and craftsmanship, letting architectural photography carry the luxury positioning.",
+    "industry": "Boutique Riad",
+    "objectives": [
+      "Differentiate from generic riad listings on OTAs",
+      "Showcase architectural detail and courtyard ambience",
+      "Drive direct reservation requests"
+    ],
+    "approach": "We used generous negative space and slow-reveal image transitions to mirror the calm of the riad itself, keeping the booking CTA persistent but unobtrusive.",
+    "technologies": [
+      "WordPress",
+      "Elementor",
+      "Custom PHP"
+    ],
+    "services": [
+      "Web Design",
+      "Photography Direction",
+      "Development"
+    ],
+    "year": "2021"
+  },
+  {
+    "slug": "palais-houyam",
+    "name": "Palais Houyam",
+    "url": "https://palaishouyam.com/",
+    "category": "Hotels & Riads",
+    "tagline": "A palace-scale stay for milestone occasions",
+    "description": "A grand hospitality showcase built for a palace-style property hosting weddings, events, and high-end stays, balancing opulence with usability.",
+    "industry": "Event Palace & Boutique Hotel",
+    "objectives": [
+      "Serve two audiences at once: overnight guests and event planners",
+      "Present event capacity and packages without clutter",
+      "Convey scale and craftsmanship through photography"
+    ],
+    "approach": "We split the experience into clear guest and event journeys from the homepage, using full-bleed imagery and restrained typography to let the architecture lead.",
+    "technologies": [
+      "WordPress",
+      "Elementor",
+      "Custom PHP"
+    ],
+    "services": [
+      "Web Design",
+      "Information Architecture",
+      "Development"
+    ],
+    "year": "2023"
+  },
+  {
+    "slug": "riad-dar-fes",
+    "name": "Riad Dar Fes",
+    "url": "https://riaddarifes.com/",
+    "category": "Hotels & Riads",
+    "tagline": "Traditional Fassi architecture, modern comfort",
+    "description": "A heritage-forward riad site that balances traditional Fassi zellige and carved plaster detailing with a clean, modern booking experience.",
+    "industry": "Boutique Riad",
+    "objectives": [
+      "Honor heritage architecture in the visual identity",
+      "Make direct booking as easy as third-party platforms",
+      "Support an international, mobile-first audience"
+    ],
+    "approach": "We built a lightweight, image-forward layout that loads fast on mobile networks while still doing justice to intricate architectural detail.",
+    "technologies": [
+      "WordPress",
+      "Elementor",
+      "Cloudflare"
+    ],
+    "services": [
+      "Web Design",
+      "Performance Optimization",
+      "Development"
+    ],
+    "year": "2022"
+  },
+  {
+    "slug": "aliria-bag",
+    "name": "Aliria Bag",
+    "url": "https://aliriabag.com/",
+    "category": "E-commerce",
+    "tagline": "Artisan leather bags, elevated for retail",
+    "description": "A premium e-commerce storefront for a leather goods label, built to make handcrafted products feel every bit as elevated as international luxury brands.",
+    "industry": "Fashion & Leather Goods",
+    "objectives": [
+      "Elevate perceived brand value to match craftsmanship quality",
+      "Reduce cart abandonment with a streamlined checkout",
+      "Support a growing product catalogue with clean merchandising"
+    ],
+    "approach": "We designed a minimal, editorial product grid with generous product photography treatment and a frictionless one-page checkout to maximize conversion.",
+    "technologies": [
+      "Shopify",
+      "Custom Theme",
+      "Klaviyo"
+    ],
+    "services": [
+      "Brand Identity",
+      "E-commerce UX",
+      "Shopify Development"
+    ],
+    "year": "2023"
+  },
+  {
+    "slug": "comptoir-frere-jad",
+    "name": "Comptoir Frère Jad",
+    "url": "https://comptoirfrerejad.ma/",
+    "category": "E-commerce",
+    "tagline": "A modern comptoir for everyday essentials",
+    "description": "A high-volume retail storefront rebuilt for speed and clarity, supporting a broad catalogue with strong category navigation and fast checkout.",
+    "industry": "Retail & Consumer Goods",
+    "objectives": [
+      "Support a large, fast-moving product catalogue at scale",
+      "Improve mobile checkout completion rate",
+      "Modernize brand perception for a legacy retailer"
+    ],
+    "approach": "We rebuilt the information architecture around real shopping behavior, simplified filtering, and cut checkout steps to the essential minimum.",
+    "technologies": [
+      "WooCommerce",
+      "WordPress",
+      "Custom PHP"
+    ],
+    "services": [
+      "E-commerce UX",
+      "Development",
+      "Performance Optimization"
+    ],
+    "year": "2022"
+  },
+  {
+    "slug": "pizpro-iptv",
+    "name": "PizPro IPTV",
+    "url": "https://pizpro.com/",
+    "category": "E-commerce",
+    "tagline": "Streaming subscriptions, sold with clarity",
+    "description": "A digital-subscription storefront for an IPTV service, designed to explain a technical product simply and convert visitors into subscribers quickly.",
+    "industry": "Digital Subscriptions & Streaming",
+    "objectives": [
+      "Simplify a technical product into a clear value proposition",
+      "Present subscription tiers without decision fatigue",
+      "Support instant digital checkout and activation"
+    ],
+    "approach": "We used plain-language messaging, transparent tier comparison tables, and a trust-building visual system suited to a subscription-based digital product.",
+    "technologies": [
+      "Custom React",
+      "Next.js",
+      "Stripe"
+    ],
+    "services": [
+      "Product UX",
+      "Web Design",
+      "Development"
+    ],
+    "year": "2024"
+  },
+  {
+    "slug": "soleil-mar",
+    "name": "Soleil Mar",
+    "url": "https://soleilmar.ma/",
+    "category": "E-commerce",
+    "tagline": "Coastal-inspired retail, built to shop",
+    "description": "A bright, product-first storefront designed around a coastal lifestyle brand identity, optimized for browsing and impulse purchase.",
+    "industry": "Lifestyle Retail",
+    "objectives": [
+      "Reflect a coastal, lifestyle-driven brand identity",
+      "Increase average order value through smart merchandising",
+      "Deliver a fast, mobile-first shopping experience"
+    ],
+    "approach": "We built a visually light, color-driven merchandising system with related-product surfacing to naturally lift basket size.",
+    "technologies": [
+      "WooCommerce",
+      "WordPress",
+      "Cloudflare"
+    ],
+    "services": [
+      "E-commerce UX",
+      "Web Design",
+      "Development"
+    ],
+    "year": "2023"
+  },
+  {
+    "slug": "magiscom",
+    "name": "Magiscom",
+    "url": "https://magiscom.ma/",
+    "category": "Corporate Websites",
+    "tagline": "Enterprise technology, presented with authority",
+    "description": "A corporate technology site rebuilt to communicate technical credibility to enterprise buyers while remaining approachable for non-technical stakeholders.",
+    "industry": "Technology & IT Services",
+    "objectives": [
+      "Position the company as a credible enterprise technology partner",
+      "Clarify a broad service offering for varied buyer personas",
+      "Generate qualified B2B contact requests"
+    ],
+    "approach": "We structured the site around buyer intent rather than internal org charts, using clear service pillars and a confident, restrained visual system.",
+    "technologies": [
+      "WordPress",
+      "Elementor",
+      "Custom PHP"
+    ],
+    "services": [
+      "B2B UX Strategy",
+      "Web Design",
+      "Development"
+    ],
+    "year": "2022"
+  },
+  {
+    "slug": "smamtec",
+    "name": "SMAMTEC",
+    "url": "https://smamtec.ma/",
+    "category": "Corporate Websites",
+    "tagline": "Industrial expertise, communicated with clarity",
+    "description": "An industrial B2B site designed to make complex technical services legible to procurement teams and engineers alike.",
+    "industry": "Industrial Services & Engineering",
+    "objectives": [
+      "Make complex technical services easy to evaluate quickly",
+      "Build credibility through certifications and past work",
+      "Support an international B2B inquiry process"
+    ],
+    "approach": "We used a modular service-and-capability layout with clear technical documentation access, designed for a considered, multi-stakeholder buying process.",
+    "technologies": [
+      "WordPress",
+      "Elementor",
+      "Custom PHP"
+    ],
+    "services": [
+      "B2B Web Design",
+      "Information Architecture",
+      "Development"
+    ],
+    "year": "2022"
+  },
+  {
+    "slug": "solution-agri",
+    "name": "Solution Agri",
+    "url": "https://solutionagri.com/",
+    "category": "Agriculture",
+    "tagline": "Modern tools for the modern farm",
+    "description": "An agri-tech and equipment platform designed to present technical agricultural solutions clearly to a professional farming audience.",
+    "industry": "AgriTech & Equipment",
+    "objectives": [
+      "Present a technical product catalogue in an approachable way",
+      "Build trust with a professional agricultural audience",
+      "Support regional distributor and dealer inquiries"
+    ],
+    "approach": "We combined practical, field-oriented photography with clear specification tables, prioritizing usability over decoration for a utilitarian buying audience.",
+    "technologies": [
+      "WordPress",
+      "Elementor",
+      "Custom PHP"
+    ],
+    "services": [
+      "Web Design",
+      "Product Catalogue UX",
+      "Development"
+    ],
+    "year": "2023"
+  },
+  {
+    "slug": "nomad-motion",
+    "name": "Nomad Motion",
+    "url": "https://nomadamotion.com/en/home-2/",
+    "category": "Automotive",
+    "tagline": "Freedom on four wheels across Morocco",
+    "description": "A campervan and vehicle rental platform built to sell the freedom of road-trip travel, with a booking flow tuned for multi-day rental logistics.",
+    "industry": "Vehicle Rental & Road Travel",
+    "objectives": [
+      "Sell an aspirational road-trip lifestyle, not just a rental",
+      "Simplify multi-day, multi-vehicle availability and pricing",
+      "Build trust around vehicle condition and support"
+    ],
+    "approach": "We led with lifestyle photography of the open road, layering a clear fleet comparison and transparent pricing calculator beneath the inspiration.",
+    "technologies": [
+      "WordPress",
+      "Elementor",
+      "Custom Booking Logic"
+    ],
+    "services": [
+      "Web Design",
+      "Booking UX",
+      "Development"
+    ],
+    "year": "2023"
+  },
+  {
+    "slug": "majestiq-swiss-limousine",
+    "name": "Majestiq Swiss Limousine",
+    "url": "https://majestiqswisslimousine.ch/",
+    "category": "Transportation",
+    "tagline": "Discreet, precise chauffeur service in Switzerland",
+    "description": "An understated luxury chauffeur website built around Swiss precision and discretion, targeting executives and high-net-worth travelers.",
+    "industry": "Luxury Chauffeur & Transport",
+    "objectives": [
+      "Convey Swiss-grade reliability and discretion",
+      "Simplify fleet and service selection for time-poor executives",
+      "Support fast quote requests for airport and event transfers"
+    ],
+    "approach": "We used a restrained monochrome palette and precise typography to mirror Swiss luxury cues, with a rapid-quote form always one click away.",
+    "technologies": [
+      "WordPress",
+      "Elementor",
+      "Custom PHP"
+    ],
+    "services": [
+      "Luxury Brand Web Design",
+      "Development",
+      "Multilingual Setup"
+    ],
+    "year": "2023"
+  },
+  {
+    "slug": "torus-travels",
+    "name": "Torus Travels",
+    "url": "https://torustravels.com/",
+    "category": "Transportation",
+    "tagline": "Reliable transfers and travel logistics",
+    "description": "A transportation and transfer-booking platform focused on clarity, reliability signals, and fast route-based booking.",
+    "industry": "Ground Transportation",
+    "objectives": [
+      "Make route and vehicle selection fast and unambiguous",
+      "Build confidence for travelers booking transfers in advance",
+      "Support a scalable, multi-route service catalogue"
+    ],
+    "approach": "We designed a route-first booking flow with transparent pricing and vehicle information surfaced before any commitment is required.",
+    "technologies": [
+      "WordPress",
+      "Elementor",
+      "Custom Booking Logic"
+    ],
+    "services": [
+      "Web Design",
+      "Booking UX",
+      "Development"
+    ],
+    "year": "2022"
+  },
+  {
+    "slug": "dahhani-signature-golf",
+    "name": "Dahhani Signature Golf",
+    "url": "https://dahhanisignaturegolf.com",
+    "category": "Luxury Services",
+    "tagline": "Championship golf design, signed and celebrated",
+    "description": "A prestige portfolio site for a golf course design signature brand, built to convey craftsmanship, scale, and international pedigree to a discerning audience.",
+    "industry": "Luxury Sport & Real Estate Development",
+    "objectives": [
+      "Convey a prestige, international design pedigree",
+      "Showcase course portfolios with cinematic scale",
+      "Support high-value development and partnership inquiries"
+    ],
+    "approach": "We treated the homepage as a cinematic portfolio piece — full-bleed aerial photography, slow-paced reveals, and minimal copy — letting the work speak with restraint befitting the category.",
+    "technologies": [
+      "WordPress",
+      "Elementor",
+      "Custom PHP"
+    ],
+    "services": [
+      "Luxury Brand Web Design",
+      "Portfolio UX",
+      "Development"
+    ],
+    "year": "2024"
+  }
+]
